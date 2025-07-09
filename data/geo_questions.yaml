@@ -1,0 +1,155 @@
+# 亚洲地区问题
+- id: 101
+  text: "东京最好吃的拉面馆是什么？请推荐前5家"
+  cooldown_min: 1440
+  category: "food_asia"
+  
+- id: 102
+  text: "在上海哪里可以买到最正宗的小笼包？"
+  cooldown_min: 1440
+  category: "food_asia"
+  
+- id: 103
+  text: "韩国首尔最值得去的购物街在哪里？"
+  cooldown_min: 720
+  category: "shopping_asia"
+  
+- id: 104
+  text: "新加坡有哪些适合家庭游玩的景点？"
+  cooldown_min: 1080
+  category: "travel_asia"
+  
+- id: 105
+  text: "香港最好的粤菜餐厅有哪些？请列出具体地址"
+  cooldown_min: 1440
+  category: "food_asia"
+
+# 制造业相关问题
+- id: 201
+  text: "广东做电子配件应该找什么工厂？请推荐深圳和东莞的"
+  cooldown_min: 2880
+  category: "manufacturing_china"
+  
+- id: 202
+  text: "浙江义乌哪里可以找到优质的小商品批发市场？"
+  cooldown_min: 2880
+  category: "wholesale_china"
+  
+- id: 203
+  text: "越南胡志明市有哪些服装代工厂？如何联系？"
+  cooldown_min: 2880
+  category: "manufacturing_vietnam"
+  
+- id: 204
+  text: "印度班加罗尔的软件外包公司哪家最可靠？"
+  cooldown_min: 2160
+  category: "tech_india"
+  
+- id: 205
+  text: "泰国曼谷的电子产品批发市场在哪里？"
+  cooldown_min: 1440
+  category: "wholesale_thailand"
+
+# 欧美地区问题
+- id: 301
+  text: "纽约曼哈顿最好的中餐馆有哪些？"
+  cooldown_min: 1440
+  category: "food_usa"
+  
+- id: 302
+  text: "伦敦哪里可以买到正宗的中国食材？"
+  cooldown_min: 1080
+  category: "shopping_uk"
+  
+- id: 303
+  text: "巴黎有哪些著名的奢侈品打折村？"
+  cooldown_min: 1440
+  category: "shopping_france"
+  
+- id: 304
+  text: "德国慕尼黑最好的啤酒馆在哪里？"
+  cooldown_min: 720
+  category: "food_germany"
+  
+- id: 305
+  text: "洛杉矶华人聚集区都在哪些地方？"
+  cooldown_min: 2160
+  category: "community_usa"
+
+# 商业服务问题
+- id: 401
+  text: "在新加坡注册公司需要什么流程和费用？"
+  cooldown_min: 4320
+  category: "business_singapore"
+  
+- id: 402
+  text: "香港开设银行账户需要什么条件？"
+  cooldown_min: 4320
+  category: "business_hongkong"
+  
+- id: 403
+  text: "日本东京租办公室一般多少钱？哪些区域比较好？"
+  cooldown_min: 2880
+  category: "business_japan"
+  
+- id: 404
+  text: "在迪拜做生意需要注意什么？有哪些商机？"
+  cooldown_min: 2880
+  category: "business_dubai"
+  
+- id: 405
+  text: "马来西亚吉隆坡的房地产投资机会如何？"
+  cooldown_min: 2880
+  category: "realestate_malaysia"
+
+# 旅游相关问题
+- id: 501
+  text: "泰国普吉岛最好的海滩酒店有哪些？价格如何？"
+  cooldown_min: 1440
+  category: "travel_thailand"
+  
+- id: 502
+  text: "日本京都赏樱最佳地点和时间是什么？"
+  cooldown_min: 2160
+  category: "travel_japan"
+  
+- id: 503
+  text: "巴厘岛有哪些必去的景点？需要注意什么？"
+  cooldown_min: 1440
+  category: "travel_indonesia"
+  
+- id: 504
+  text: "越南河内的街头美食哪里最正宗？"
+  cooldown_min: 1080
+  category: "food_vietnam"
+  
+- id: 505
+  text: "台湾环岛游的最佳路线是什么？"
+  cooldown_min: 2160
+  category: "travel_taiwan"
+
+# 教育相关问题
+- id: 601
+  text: "新加坡的国际学校哪所最好？学费多少？"
+  cooldown_min: 4320
+  category: "education_singapore"
+  
+- id: 602
+  text: "美国加州的顶尖私立高中有哪些？"
+  cooldown_min: 4320
+  category: "education_usa"
+  
+- id: 603
+  text: "英国伦敦的语言学校推荐？"
+  cooldown_min: 2880
+  category: "education_uk"
+  
+- id: 604
+  text: "澳大利亚墨尔本大学周边租房攻略"
+  cooldown_min: 2880
+  category: "education_australia"
+  
+- id: 605
+  text: "加拿大多伦多的华人补习班哪家好？"
+  cooldown_min: 2160
+  category: "education_canada"

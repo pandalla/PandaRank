@@ -1,0 +1,30 @@
+- id: 1
+  text: "Explain Bellman-Ford vs Dijkstra in one tweet"
+  cooldown_min: 1440
+- id: 2
+  text: "Write a bash one-liner to find duplicate files"
+  cooldown_min: 720
+- id: 3
+  text: "What are the main differences between TCP and UDP?"
+  cooldown_min: 360
+- id: 4
+  text: "Explain async/await in JavaScript with a simple example"
+  cooldown_min: 480
+- id: 5
+  text: "How does garbage collection work in Python?"
+  cooldown_min: 600
+- id: 6
+  text: "Compare REST vs GraphQL for API design"
+  cooldown_min: 540
+- id: 7
+  text: "What is the CAP theorem in distributed systems?"
+  cooldown_min: 1080
+- id: 8
+  text: "Explain Docker containers vs virtual machines"
+  cooldown_min: 720
+- id: 9
+  text: "What are the SOLID principles in object-oriented design?"
+  cooldown_min: 900
+- id: 10
+  text: "How does HTTPS work? Explain the SSL/TLS handshake"
+  cooldown_min: 600

@@ -1,0 +1,19 @@
+id,conversation_id,url,title,fetched_at
+1,1,https://www.google.com/search?q=东京最好吃的拉面馆是什么？请推荐前5家,Google搜索结果,2025-07-08T19:24:10.763279+00:00
+2,1,https://www.tripadvisor.com,TripAdvisor - 旅游推荐,2025-07-08T19:24:10.763377+00:00
+3,1,https://www.tabelog.com,Tabelog - 日本美食评价网站,2025-07-08T19:24:10.763468+00:00
+4,2,https://www.google.com/search?q=在上海哪里可以买到最正宗的小笼包？,Google搜索结果,2025-07-08T19:26:47.747101+00:00
+5,2,https://www.tripadvisor.com,TripAdvisor - 旅游推荐,2025-07-08T19:26:47.747184+00:00
+6,2,https://www.tabelog.com,Tabelog - 日本美食评价网站,2025-07-08T19:26:47.747266+00:00
+7,5,https://www.google.com/search?q=东京最好吃的拉面馆是什么？请推荐前5家,Google搜索结果,2025-07-08T19:43:15.770884+00:00
+8,5,https://www.tripadvisor.com,TripAdvisor - 旅游推荐,2025-07-08T19:43:15.770982+00:00
+9,5,https://www.tabelog.com,Tabelog - 日本美食评价网站,2025-07-08T19:43:15.771089+00:00
+10,6,https://www.google.com/search?q=在上海哪里可以买到最正宗的小笼包？,Google搜索结果,2025-07-08T19:46:14.387112+00:00
+11,6,https://www.tripadvisor.com,TripAdvisor - 旅游推荐,2025-07-08T19:46:14.387209+00:00
+12,6,https://www.tabelog.com,Tabelog - 日本美食评价网站,2025-07-08T19:46:14.387293+00:00
+13,7,https://www.google.com/search?q=浙江义乌哪里可以找到优质的小商品批发市场？,Google搜索结果,2025-07-09T06:01:23.165511+00:00
+14,7,https://www.tripadvisor.com,TripAdvisor - 旅游推荐,2025-07-09T06:01:23.165622+00:00
+15,7,https://www.tabelog.com,Tabelog - 日本美食评价网站,2025-07-09T06:01:23.165724+00:00
+16,8,https://www.google.com/search?q=巴厘岛有哪些必去的景点？需要注意什么？,Google搜索结果,2025-07-09T06:02:49.906410+00:00
+17,8,https://www.tripadvisor.com,TripAdvisor - 旅游推荐,2025-07-09T06:02:49.906539+00:00
+18,8,https://www.tabelog.com,Tabelog - 日本美食评价网站,2025-07-09T06:02:49.906761+00:00
