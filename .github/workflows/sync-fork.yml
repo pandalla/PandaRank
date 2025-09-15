@@ -12,7 +12,7 @@
         - name: Checkout
           uses: actions/checkout@v4
           with:
-            token: ${{ secrets.SYNC_TOKEN }}  # 使用 PAT
+            token: ${{ secrets.PAT_TOKEN }}  # 使用 PAT
             fetch-depth: 0
 
         - name: 配置 Git 用户信息
