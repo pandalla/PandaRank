@@ -1,4 +1,4 @@
-  name: 同步上游仓库
+  name: 同步私有上游仓库
 
   on:
     schedule:
@@ -12,7 +12,7 @@
         - name: Checkout
           uses: actions/checkout@v4
           with:
-            token: ${{ secrets.GITHUB_TOKEN }}
+            token: ${{ secrets.SYNC_TOKEN }}  # 使用 PAT
             fetch-depth: 0
 
         - name: 配置 Git 用户信息
@@ -20,9 +20,9 @@
             git config user.name "GitHub Actions Bot"
             git config user.email "actions@github.com"
 
-        - name: 添加上游仓库
+        - name: 添加上游仓库（使用 PAT）
           run: |
-            git remote add upstream https://github.com/JessyTsui/PandaRank.git
+            git remote add upstream https://${{ secrets.SYNC_TOKEN }}@github.com/JessyTsui/PandaRank.git
             git fetch upstream
 
         - name: 同步更新
